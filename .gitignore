@@ -1,0 +1,17 @@
+# Data files
+*.csv
+state_data/
+
+# Claude
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Scrapy
+.scrapy/
